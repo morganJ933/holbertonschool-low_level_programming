@@ -8,3 +8,4 @@ The 0-positive_or_negative.c  program generates a random integer and prints whet
 The 1-last_digit.c program generates a random integer and prints its last digit.
 The 2-print_alphabet.c program prints the lowercase alphabet from a to z, followed by a newline.
 The 3-print_alphabets.c program prints the lowercase alphabet followed by the uppercase alphabet.
+The 4-print_alphabt.c program prints the lowercase alphabet, excluding the letters e and q.
