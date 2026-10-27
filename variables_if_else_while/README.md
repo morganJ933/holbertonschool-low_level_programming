@@ -6,3 +6,4 @@ This project introduces variables, conditional statements, and loops in C.
 
 The 0-positive_or_negative.c  program generates a random integer and prints whether it is positive, negative, or zero.
 The 1-last_digit.c program generates a random integer and prints its last digit.
+The 2-print_alphabet.c program prints the lowercase alphabet from a to z, followed by a newline.
