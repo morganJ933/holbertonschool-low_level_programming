@@ -9,3 +9,4 @@ The 1-last_digit.c program generates a random integer and prints its last digit.
 The 2-print_alphabet.c program prints the lowercase alphabet from a to z, followed by a newline.
 The 3-print_alphabets.c program prints the lowercase alphabet followed by the uppercase alphabet.
 The 4-print_alphabt.c program prints the lowercase alphabet, excluding the letters e and q.
+The 5-print_numbers.c program prints all single digit numbers of base 10, from 0 to 9, followed by a newline.
