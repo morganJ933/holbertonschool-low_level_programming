@@ -12,3 +12,4 @@ The 4-isalpha.c file defines the _isalpha function, which checks whether a chara
 The 5-sign.c file defines the print_sign function, which prints the sign of an integer.
 The 6-abs.c file defines the _abs function, which computes the absolute value of an integer.
 The 7-print_last_digit.c file defines the print_last_digit function, which prints and returns the last digit of an integer.
+The 8-24_hours.c file defines the jack_bauer function, which prints every minute of a day from 00:00 to 23:59.
