@@ -10,3 +10,4 @@ The 2-print_alphabet_x10.c file defines the print_alphabet_x10 function, which p
 The 3-islower.c file defines the _islower function, which checks whether a character is lowercase.
 The 4-isalpha.c file defines the _isalpha function, which checks whether a character is alphabetic.
 The 5-sign.c file defines the print_sign function, which prints the sign of an integer.
+The 6-abs.c file defines the _abs function, which computes the absolute value of an integer.
