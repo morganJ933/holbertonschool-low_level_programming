@@ -15,3 +15,4 @@ The 7-print_last_digit.c file defines the print_last_digit function, which print
 The 8-24_hours.c file defines the jack_bauer function, which prints every minute of a day from 00:00 to 23:59.
 The 9-times_table.c file defines the times_table function, which prints the multiplication table from 0 to 9.
 The 10-add.c file defines the add function, which adds two integers and returns their sum.
+The 11-print_to_98.c file defines the print_to_98 function, which prints all integers from a given number to 98.
