@@ -3,3 +3,4 @@
 ## Task of the project.
 
 0. 98 Battery st. Created a function that updates an integer value to 98 using a pointer.
+1.Swap Created a function that swaps the values of two integers using pointers.
