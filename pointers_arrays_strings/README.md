@@ -13,3 +13,4 @@
 8. print_array Created a function that prints n integers from an array, separated by commas and spaces, followed by a new line.
 9. _strcpy Created a function that copies a string, including the null terminator, into a destination buffer and returns its pointer.
 100. _atoi Created a function that converts a string to an integer while handling signs and non-numeric characters.
+0. _strcat Created a function that concatenates two strings and returns a pointer to the resulting destination string.
