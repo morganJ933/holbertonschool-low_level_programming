@@ -19,3 +19,4 @@
 
 0. _strcat Created a function that concatenates two strings and returns a pointer to the resulting destination strings
 1. _strncat Created a function that concatenates two strings using at most n bytes from the source and returns the destination pointer.
+2. _strncpy Created a function that copies up to n bytes from a source string into a destination buffer, padding with null bytes when necessary.
