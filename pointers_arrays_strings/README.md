@@ -10,3 +10,4 @@
 5. Reverse String Created a function that reverses a string in place by swapping its characters.
 6. puts2 Created a function that prints every other character of a string, starting with the first character, followed by a new line.
 7. puts_half Created a function that prints the second half of a string, including the middle character when its length is odd.
+8. print_array Created a function that prints n integers from an array, separated by commas and spaces, followed by a new line.
