@@ -8,3 +8,4 @@
 3. Write a function that prints a string, followed by a new line, to stdout
 4. Print Reverse Created a function that prints a string in reverse followed by a new line.
 5. Reverse String Created a function that reverses a string in place by swapping its characters.
+6. puts2 Created a function that prints every other character of a string, starting with the first character, followed by a new line.
