@@ -35,4 +35,6 @@
 3. _strspn Created a function that counts the initial consecutive characters of a string that belong to a given set.
 4. _strpbrk Created a function that finds the first character in a string matching any character from a given set.
 5. _strstr Created a function that locates the first occurrence of a substring within a string.
+6. passed the six go instant with seven.
 7. print_chessboard Created a function that prints an 8x8 chessboard using nested loops and _putchar.
+8. print_diagsums Created a function that calculates and prints the sums of both diagonals of a square integer matrix.
