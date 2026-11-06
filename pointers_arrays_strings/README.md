@@ -24,3 +24,4 @@
 4. reverse_array Created a function that reverses the order of elements in an integer array in place.
 5. string_toupper Created a function that converts all lowercase letters in a string to uppercase.
 6. cap_string Created a function that capitalizes the first letter of each word in a string using specific separators.
+7. leet Created a function that encodes a string into 1337 by replacing specific letters with numbers.
