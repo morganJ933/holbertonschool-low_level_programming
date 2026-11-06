@@ -21,3 +21,4 @@
 1. _strncat Created a function that concatenates two strings using at most n bytes from the source and returns the destination pointer.
 2. _strncpy Created a function that copies up to n bytes from a source string into a destination buffer, padding with null bytes when necessary.
 3. _strcmp Created a function that compares two strings character by character and returns the difference between the first differing characters.
+4. reverse_array Created a function that reverses the order of elements in an integer array in place.
