@@ -31,3 +31,4 @@
 
 0. _memset Created a function that fills the first n bytes of a memory area with a constant byte.
 1. _memcpy Created a function that copies n bytes from a source memory area to a destination memory area.
+2. _strchr Created a function that locates the first occurrence of a character in a string and returns its pointer.
