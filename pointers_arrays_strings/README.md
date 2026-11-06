@@ -34,3 +34,4 @@
 2. _strchr Created a function that locates the first occurrence of a character in a string and returns its pointer.
 3. _strspn Created a function that counts the initial consecutive characters of a string that belong to a given set.
 4. _strpbrk Created a function that finds the first character in a string matching any character from a given set.
+5. _strstr Created a function that locates the first occurrence of a substring within a string.
