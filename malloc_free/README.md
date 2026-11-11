@@ -5,3 +5,4 @@
 1.Created a function that duplicates a string using dynamically allocated memory.
 2.Created a function that concatenates two strings into newly allocated memory using malloc
 3.Created a function that dynamically allocates a two-dimensional array of integers and initializes all elements to zero.
+4.Created a function that frees all dynamically allocated memory of a two-dimensional integer array.
