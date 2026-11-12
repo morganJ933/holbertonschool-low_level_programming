@@ -1,0 +1,5 @@
+# C - More malloc, free
+
+## Task of the project .
+
+0. Created a function that allocates memory using malloc and terminates the program with exit status 98 if allocation fails.
