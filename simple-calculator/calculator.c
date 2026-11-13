@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * main - Displays a calculator menu and performs addition
+ * main - Displays a calculator menu and performs operations
  *
  * Return: 0 on success, 1 on input failure
  */
@@ -27,7 +27,7 @@ int main(void)
 		{
 			printf("Invalid choice\n");
 		}
-		else if (choice == 1)
+		else if (choice == 1 || choice == 2)
 		{
 			printf("A: ");
 			if (scanf("%d", &a) != 1)
@@ -37,7 +37,11 @@ int main(void)
 			if (scanf("%d", &b) != 1)
 				return (1);
 
-			result = a + b;
+			if (choice == 1)
+				result = a + b;
+			else
+				result = a - b;
+
 			printf("Result: %d\n", result);
 		}
 
