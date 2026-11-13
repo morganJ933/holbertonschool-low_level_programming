@@ -2,13 +2,14 @@
 #include <stdio.h>
 
 /**
- * main - Displays a calculator menu with choice validation
+ * main - Displays a calculator menu and performs addition
  *
  * Return: 0 on success, 1 on input failure
  */
 int main(void)
 {
 	int choice;
+	int a, b, result;
 
 	do {
 		printf("Simple Calculator\n");
@@ -23,7 +24,22 @@ int main(void)
 			return (1);
 
 		if (choice < 0 || choice > 4)
+		{
 			printf("Invalid choice\n");
+		}
+		else if (choice == 1)
+		{
+			printf("A: ");
+			if (scanf("%d", &a) != 1)
+				return (1);
+
+			printf("B: ");
+			if (scanf("%d", &b) != 1)
+				return (1);
+
+			result = a + b;
+			printf("Result: %d\n", result);
+		}
 
 	} while (choice != 0);
 
