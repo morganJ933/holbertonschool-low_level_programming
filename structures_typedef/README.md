@@ -5,3 +5,4 @@
 2. print_dog Created a function that prints the information of a dog structure and handles NULL values.
 3. dog_t Created a typedef alias named dog_t for the existing struct dog type.
 4. new_dog Created a function that dynamically allocates a new dog structure and stores copies of its name and owner.
+5. free_dog Created a function that frees all dynamically allocated memory used by a dog structure.
